@@ -1,6 +1,6 @@
-# Course: Intro to Programming
+# Course: Python
 
-Get started with Python, if you have no coding experience.
+Learn the most important language for data science.
 
 ## Lessons
 
